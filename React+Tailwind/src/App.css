@@ -1,0 +1,5 @@
+@import "tailwindcss";
+
+.enlace{
+    @apply hover:text-indigo-300 transition
+}
